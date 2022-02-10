@@ -1,6 +1,6 @@
 AUTHOR = 'Nasif Hossain'
 SITENAME = "Nasif's Cool Site"
-SITEURL = ''
+SITEURL = 'https://nasif92.github.io/'
 
 PATH = 'content'
 
